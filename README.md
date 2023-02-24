@@ -24,6 +24,7 @@
 ### Links
 
 Solution URL:  https://github.com/aleksandre1303/fauxica-home-page
+--
 Live Site URL: https://aleksandre1303.github.io/js-basic-fundamentals/
 
 
