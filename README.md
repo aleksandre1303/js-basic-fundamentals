@@ -21,10 +21,10 @@
 <img width="1440" alt="Screenshot 2023-02-25 at 00 24 35" src="https://user-images.githubusercontent.com/67371847/221284574-2ef507fb-7787-4592-94b1-90dfad6da9c0.png">
 
 
-### Links
+## Links
 
 Solution URL:  https://github.com/aleksandre1303/fauxica-home-page
---
+
 Live Site URL: https://aleksandre1303.github.io/js-basic-fundamentals/
 
 
